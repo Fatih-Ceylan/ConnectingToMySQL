@@ -43,7 +43,7 @@ else
     {
         // not case sensitive but careful anyway
 
-        string sql = "update people set FirstName = @FirstName where lastname = @LastName";
+        string sql = "update people set where FirstName = @FirstName  lastname = @LastName";
 
         await _data.SaveData(sql, new { FirstName = "bbb", Lastname = "Gilly" }, _config.GetConnectionString("default"));
 
