@@ -1,0 +1,5 @@
+C:\Users\feti\Documents\GitHub\ConnectingToMySQL\DataLibrary\bin\Debug\netstandard2.0\DataLibrary.deps.json
+C:\Users\feti\Documents\GitHub\ConnectingToMySQL\DataLibrary\bin\Debug\netstandard2.0\DataLibrary.dll
+C:\Users\feti\Documents\GitHub\ConnectingToMySQL\DataLibrary\obj\Debug\netstandard2.0\DataLibrary.csprojAssemblyReference.cache
+C:\Users\feti\Documents\GitHub\ConnectingToMySQL\DataLibrary\obj\Debug\netstandard2.0\DataLibrary.AssemblyInfoInputs.cache
+C:\Users\feti\Documents\GitHub\ConnectingToMySQL\DataLibrary\obj\Debug\netstandard2.0\DataLibrary.AssemblyInfo.cs

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\feti\\source\\repos\\ConnectingToMySQL\\BlazorServer\\BlazorServer.csproj",
+      "projectUniqueName": "C:\\Users\\feti\\Documents\\GitHub\\ConnectingToMySQL\\BlazorServer\\BlazorServer.csproj",
       "projectName": "BlazorServer",
-      "projectPath": "C:\\Users\\feti\\source\\repos\\ConnectingToMySQL\\BlazorServer\\BlazorServer.csproj",
+      "projectPath": "C:\\Users\\feti\\Documents\\GitHub\\ConnectingToMySQL\\BlazorServer\\BlazorServer.csproj",
       "packagesPath": "C:\\Users\\feti\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\feti\\source\\repos\\ConnectingToMySQL\\BlazorServer\\obj\\",
+      "outputPath": "C:\\Users\\feti\\Documents\\GitHub\\ConnectingToMySQL\\BlazorServer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
