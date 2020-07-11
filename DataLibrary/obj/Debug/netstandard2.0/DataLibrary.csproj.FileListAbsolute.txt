@@ -3,3 +3,6 @@ C:\Users\feti\Documents\GitHub\ConnectingToMySQL\DataLibrary\bin\Debug\netstanda
 C:\Users\feti\Documents\GitHub\ConnectingToMySQL\DataLibrary\obj\Debug\netstandard2.0\DataLibrary.csprojAssemblyReference.cache
 C:\Users\feti\Documents\GitHub\ConnectingToMySQL\DataLibrary\obj\Debug\netstandard2.0\DataLibrary.AssemblyInfoInputs.cache
 C:\Users\feti\Documents\GitHub\ConnectingToMySQL\DataLibrary\obj\Debug\netstandard2.0\DataLibrary.AssemblyInfo.cs
+C:\Users\feti\Documents\GitHub\ConnectingToMySQL\DataLibrary\bin\Debug\netstandard2.0\DataLibrary.pdb
+C:\Users\feti\Documents\GitHub\ConnectingToMySQL\DataLibrary\obj\Debug\netstandard2.0\DataLibrary.dll
+C:\Users\feti\Documents\GitHub\ConnectingToMySQL\DataLibrary\obj\Debug\netstandard2.0\DataLibrary.pdb
